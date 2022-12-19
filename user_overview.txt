@@ -1,0 +1,43 @@
+User Overview:
+
+Total number of users : 9
+Total number of tasks : 5
+
+User : admin
+Total tasks for user : 2
+Completed tasks for user : 1
+Uncompleted tasks for user : 1
+Percentage of tasks that are incomplete : 50.0%
+Percentage of tasks that are overdue : 100.0%       
+
+User : user1
+Total tasks for user : 2
+Completed tasks for user : 0
+Uncompleted tasks for user : 2
+Percentage of tasks that are incomplete : 100.0%
+Percentage of tasks that are overdue : 50.0%       
+
+User : user2
+Total tasks for user : 0
+
+User : user3
+Total tasks for user : 0
+
+User : jake3
+Total tasks for user : 0
+
+User : user12
+Total tasks for user : 0
+
+User : user400
+Total tasks for user : 0
+
+User : user500
+Total tasks for user : 0
+
+User : user600
+Total tasks for user : 1
+Completed tasks for user : 0
+Uncompleted tasks for user : 1
+Percentage of tasks that are incomplete : 100.0%
+Percentage of tasks that are overdue : 0.0%       
